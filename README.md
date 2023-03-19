@@ -36,6 +36,7 @@ To develop a 3D application for rotating the gaming objects in unity.
 ```
 Developed by: Senthil Kumar S
 Register Number: 212221230091
+```
 ### Rotate Text:
 ```C#
 using System.Collections;
@@ -81,7 +82,7 @@ public class prog2 : MonoBehaviour
 
 ```
 ## Output:
-![out](https://user-images.githubusercontent.com/93860256/226203865-60b89a1b-ad33-4256-99d8-9b529a0c739c.png)
+![out](https://user-images.githubusercontent.com/93860256/226204045-770f9069-82b4-4153-9ee8-b04a876492ee.png)
 
 https://user-images.githubusercontent.com/93860256/226203938-dfa2d38f-48da-4d1c-9e61-0bea2c45166e.mp4
 
